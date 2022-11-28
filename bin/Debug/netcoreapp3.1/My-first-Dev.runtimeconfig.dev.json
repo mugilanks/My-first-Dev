@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mugilan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mugilan\\.nuget\\packages"
+    ]
+  }
+}
